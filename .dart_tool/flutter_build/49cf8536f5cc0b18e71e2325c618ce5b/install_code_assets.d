@@ -1,0 +1,1 @@
+ C:\\Users\\lawre\\inventory_app\\.dart_tool\\flutter_build\\49cf8536f5cc0b18e71e2325c618ce5b\\native_assets.json: 
